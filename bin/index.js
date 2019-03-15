@@ -1,4 +1,6 @@
-const proxy=require("./../lib/index.js");
+#!/usr/bin/env node
+
+const proxy= require("./../lib/index.js");
 let argv =process.argv.slice(2);
 let params={};
 argv.forEach(function(v){

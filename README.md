@@ -7,7 +7,7 @@ This tool is written in Node.js. Grab the appropriate package from nodejs.org or
 ## Installation
 Once Node.js is installed, install japs with:
 ```sh
-$ npm install -g sjaps
+$ npm install -g japs
 ```
 Then show available command use:
 ```

@@ -1,0 +1,14 @@
+{
+  "name": "japs",
+  "version": "0.0.2",
+  "description": "Just Another Packet Sniffer",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "japs": "./bin/index.js"
+  },
+  "author": "angga2oioi",
+  "license": "MIT"
+}

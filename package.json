@@ -1,6 +1,6 @@
 {
   "name": "japs",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Just Another Packet Sniffer",
   "main": "./lib/index.js",
   "scripts": {

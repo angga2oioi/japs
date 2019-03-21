@@ -9,6 +9,11 @@
   "bin": {
     "japs": "./bin/index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angga2oioi/japs.git"
+  },
+  "keywords": ["packet", "sniffer"],
   "author": "angga2oioi",
   "license": "MIT"
 }

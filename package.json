@@ -1,6 +1,6 @@
 {
   "name": "japs",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Just Another Packet Sniffer",
   "main": "./lib/index.js",
   "scripts": {
@@ -13,7 +13,10 @@
     "type": "git",
     "url": "git+https://github.com/angga2oioi/japs.git"
   },
-  "keywords": ["packet", "sniffer"],
+  "keywords": [
+    "packet",
+    "sniffer"
+  ],
   "author": "angga2oioi",
   "license": "MIT"
 }

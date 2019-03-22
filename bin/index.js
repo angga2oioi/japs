@@ -15,18 +15,18 @@ argv.forEach(function(v){
 if(params.h===true){
 	console.log("USAGE : ");
 	console.log("\t japs [option]");
-	
-	
+    
+    console.log("REMARKS : ");
+    console.log("\t Captured package will be saved in log.pcap");
+    
 	console.log("Option : ");
 	console.log("\t -h  \t Show this help, no option needed");
 	console.log("\t -p \t Set port to listening to");
 	console.log("\t -f \t Set server:port to forward to");
-    console.log("\t -l \t Set path for dump log into file, default is log.txt");
-    console.log("\t -e \t Set character encoding default is ascii ");
 	
 	console.log(" ");
 	console.log("Example : ");
-	console.log("\t japs -p=1234 -f=localhost:3306  -l=./log.txt -e=ascii");
+	console.log("\t japs -p=1234 -f=localhost:3306");
 	return;
 }
 if(!params.p || typeof params.p !=="string"){

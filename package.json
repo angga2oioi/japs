@@ -1,6 +1,6 @@
 {
   "name": "japs",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "Just Another Packet Sniffer",
   "main": "./lib/index.js",
   "scripts": {
@@ -17,8 +17,8 @@
     "packet",
     "sniffer"
   ],
-  "engines" : { 
-    "node" : ">=6.17.0" 
+  "engines": {
+    "node": ">=6.17.0"
   },
   "author": "angga2oioi",
   "license": "MIT",
